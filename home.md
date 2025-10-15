@@ -1,5 +1,4 @@
-# pdv-keetouch
-### Instalação do driver "KeeTouch Touchscreen" no Ubuntu 22.04
+# Instalação do driver "KeeTouch Touchscreen" no Ubuntu 22.04
 
 - **Sistema operacional utilizado:** InstaladorPDV-2.U2204.519.1.10-64  
 - **Identificação do driver (via `lsusb`):**  
